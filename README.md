@@ -1,0 +1,2 @@
+# DeviceActivationKey
+Kich Hoat Key
