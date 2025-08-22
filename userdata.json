@@ -9,7 +9,7 @@
         "device_id": "fa973103aa586932",
         "key": "Lopte11",
         "expirydate": "15-09-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     }
     {
         "device_id": "no",
