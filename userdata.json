@@ -54,6 +54,30 @@
         "Allowoffline": false
     },
     {
+        "device_id": "a40b19e69e4f5925",
+        "key": "lopte245",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "no",
+        "key": "lopte",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "no",
+        "key": "lopte",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "no",
+        "key": "lopte",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "no",
         "key": "lopte",
         "expirydate": "15-09-2025",
