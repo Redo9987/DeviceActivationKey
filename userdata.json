@@ -294,6 +294,18 @@
         "Allowoffline": false
     },
     {
+        "device_id": "0101168343f934ec",
+        "key": "8ball970",
+        "expirydate": "5-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "no",
+        "key": "vphone9",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "no",
         "key": "vphone9",
         "expirydate": "15-09-2026",
