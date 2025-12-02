@@ -378,7 +378,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "de316c629626cfeb",
+        "device_id": "no",
         "key": "8ba1502",
         "expirydate": "15-02-2026",
         "Allowoffline": false
@@ -402,8 +402,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "no",
-        "key": "vphone339",
+        "device_id": "9a273e19b787d912",
+        "key": "8ball449",
         "expirydate": "15-09-2026",
         "Allowoffline": false
     },
