@@ -479,4 +479,11 @@
         "expirydate": "15-09-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "63fca469943bc663",
+        "key": "vphonelop",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
+    },
+    
 ]
