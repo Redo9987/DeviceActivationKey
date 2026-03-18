@@ -516,6 +516,24 @@
         "Allowoffline": false
     },
         {
+        "device_id": "c03d0e64a5c82d09",
+        "key": "8ball990",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
+    },
+    
+        "device_id": "no",
+        "key": "vphonelop",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
+    },
+    
+        "device_id": "no",
+        "key": "vphonelop",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false
+    },
+    
         "device_id": "no",
         "key": "vphonelop",
         "expirydate": "15-09-2026",
